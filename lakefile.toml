@@ -1,0 +1,10 @@
+name = "understanding_analysis"
+version = "0.1.0"
+defaultTargets = ["understanding_analysis"]
+
+[[lean_lib]]
+name = "UnderstandingAnalysis"
+
+[[lean_exe]]
+name = "understanding_analysis"
+root = "Main"
