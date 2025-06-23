@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "389456ca2be81452",
+    "type": "split",
+    "children": [
+      {
+        "id": "d42c415b11fe103a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdece48cf39f8f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UnderstandingAnalysis/ch1/exercises/ex121.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ex121"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1cd251eea98ad2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2157bbc07c33c1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f1911682661ba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "88893acf69cebb32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "328735ba84fdbde4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dff51cd24c7c78ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fc74ca0ba67448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6811838a892d01a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UnderstandingAnalysis/ch1/exercises/ex121.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ex121"
+            }
+          },
+          {
+            "id": "041c8c0f46011dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UnderstandingAnalysis/ch1/exercises/ex121.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ex121"
+            }
+          },
+          {
+            "id": "eed8b5cea37ee53a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b2046d8b68eef80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UnderstandingAnalysis/ch1/exercises/ex121.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ex121"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fdece48cf39f8f08",
+  "lastOpenFiles": [
+    "UnderstandingAnalysis/ch1/theroems/thm111.lean~"
+  ]
+}
